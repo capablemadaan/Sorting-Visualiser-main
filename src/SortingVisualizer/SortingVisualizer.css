@@ -9,3 +9,12 @@
   display: inline-block;
   margin: 0 1px;
 }
+button{
+  color:red;
+  margin: 10px 10px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  font-size: 15px;
+  font-weight: bold;
+
+}
